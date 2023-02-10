@@ -1,4 +1,4 @@
-# PongGame
+# Pong Game
 Pong Game - C++ and SDL2
 
 ![Ball bounces off the paddles](https://user-images.githubusercontent.com/28037427/218172815-d77ac498-35dd-4dc2-81b0-96845a98ec1b.jpg)
